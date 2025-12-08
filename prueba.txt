@@ -1,3 +1,7 @@
 archivo de prueba de git
 
 ahora este archivo fue modificado
+----------------------------------------------
+numeritos agregados por error
+
+12345678901234567890
